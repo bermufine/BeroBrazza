@@ -34,10 +34,10 @@
          {
           "descriptionBra": "ESAIE 45 TV est la première chaine chrétienne en République du Congo.",
           "sourceBra": [
-            "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
+            "https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"
           ],
           "subtitleBra": "By Channel",
-          "thumbBra": "https://od.lk/s/M18yNTkxOTI2MTVf/africanews.jpg",
+          "thumbBra": "https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg",
           "titleBra": "ESAIE 45 TV"
         },
         {
